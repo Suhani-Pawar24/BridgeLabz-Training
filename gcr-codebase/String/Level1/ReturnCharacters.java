@@ -24,7 +24,7 @@ public class ReturnCharacters
 	
 	public static char[] returnCharacter(String s1)
 	{
-		char[] arr1 =new char[s1.length()];
+		char[] arr1 = new char[s1.length()];
 		for(int i = 0; i < s1.length(); i++)
 		{
 			arr1[i]=s1.charAt(i);
