@@ -119,3 +119,19 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
 
 ---
+## 📅 Day 7 – Java Strings  
+**(Date: 22-Dec-2025)**
+
+- Learned:
+  - String concepts & immutability
+  - String functions and operations
+- Reviewed material:
+  - **05 – Java String**
+- Class timing update noted:
+  - ⏰ 11:00 AM to 5:30 PM
+- Submitted **Submissions on Java String Practices**.
+
+**🔗 Code Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+
+---
