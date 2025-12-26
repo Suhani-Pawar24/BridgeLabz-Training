@@ -31,7 +31,6 @@ public class StringLength
 
         int builtInLength = str.length();
 
-        // Displaying results
         System.out.println("Length without using length(): " + userDefinedLength);
         System.out.println("Length using built-in length(): " + builtInLength);
 
