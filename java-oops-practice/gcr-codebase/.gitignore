@@ -2,12 +2,6 @@
 
 .metadata/
 
-.settings/
-
-.classpath
-
-.project
-
 # Java build output
 
 bin/
