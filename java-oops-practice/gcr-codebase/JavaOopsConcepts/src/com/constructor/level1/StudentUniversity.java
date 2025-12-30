@@ -1,6 +1,6 @@
-package com.constructors.level1;
+package com.constructor.level1;
  
-public class Student {
+public class StudentUniversity {
 
     // Access modifiers
     public int rollNumber;      
@@ -8,7 +8,7 @@ public class Student {
     private double CGPA;       
 
     // Constructor
-    public Student(int rollNumber, String name, double CGPA) 
+    public StudentUniversity(int rollNumber, String name, double CGPA) 
     {
         this.rollNumber = rollNumber;
         this.name = name;
@@ -26,7 +26,7 @@ public class Student {
     }
 }
 
-class PostgraduateStudent extends Student
+class PostgraduateStudent extends StudentUniversity
 {
 
     private String specialization;
