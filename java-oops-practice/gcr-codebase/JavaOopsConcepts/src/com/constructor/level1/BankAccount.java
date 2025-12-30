@@ -1,4 +1,4 @@
-import java.util.*;
+package com.constructor.level1;
 public class BankAccount
 {
 	public int accountNumber;
