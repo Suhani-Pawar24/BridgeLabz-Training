@@ -119,7 +119,9 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
 
 ---
-## 📅 Day 7 – Java Strings  
+## Week 2: Core java concepts : String , Builtin Functions
+---
+## 📅 Day 1 – Java Strings  
 **(Date: 22-Dec-2025)**
 
 - Learned:
@@ -127,15 +129,13 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
   - String functions and operations
 - Reviewed material:
   - **05 – Java String**
-- Class timing update noted:
-  - ⏰ 11:00 AM to 5:30 PM
 - Submitted **Submissions on Java String Practices**.
 
 **🔗 Code Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
-
 ---
-## 📅 Day 8 – EXTRAS: Built‑in Functions & Java String Handling  
+
+## 📅 Day 2 – EXTRAS: Built‑in Functions & Java String Handling  
 **(Date: 23-Dec-2025)**
 
 - Practiced:
@@ -149,11 +149,9 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 
 **🔗 Code Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras
-
 ---
 
-
-## 📅 Day 9 – Scenario‑Based Java Problems  
+## 📅 Day 3 – Scenario‑Based Java Problems  
 **(Date: 24-Dec-2025)**
 
 - Worked on real‑world Java problems applying:
@@ -168,18 +166,17 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 **Problems Implemented:**
 
 - ☕ **Coffee Counter Chronicles**  
-  Coffee ordering & billing system using switch, GST logic,  
-  and continuous orders using while‑loop until *exit*.
+  - Coffee ordering & billing system using switch, GST logic, and continuous orders using while‑loop until *exit*.
 
 - 🧮 **Maya’s BMI Fitness Tracker**  
-  BMI calculation using formula with category classification via if‑else.
-
-- Pushed solutions to **scenario‑based** folder in repository.
+  - BMI calculation using formula with category classification via if‑else.
+  - Pushed solutions to **scenario‑based** folder in repository.
 
 **🔗 Code Link:**  
-https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day1
 ---
-## 📅 Day 10 – Core Java Scenario-Based Programs + OOP Kickoff  
+
+## 📅 Day 4 – Core Java Scenario-Based Programs 
 **(Date: 26-Dec-2025)**
 
 - Continued working on **advanced scenario-based Core Java problems**.
@@ -190,6 +187,66 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
   - Ternary operator usage  
   - break & continue control flow  
   - Clean-code formatting, indentation & meaningful comments
-**🔗 Repository Link:**
- https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase   
-  ---
+
+- 🗳️ **Election Booth Manager**
+  - Checks voter eligibility using age (if condition)
+  - Records votes (1/2/3) for multiple voters using loop
+
+- 🚇 **Metro Smart Card Fare Deduction**
+  - Calculates fare based on distance using ternary operator
+  - Deducts balance repeatedly until exhausted or exit
+
+- 📊 **Raj’s Result Generator**
+  - Takes 5 subject marks using for-loop and calculates average
+  - Assigns grades using switch-case
+
+*Scenario Based Questions Solved*
+**🔗 Code Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day2
+---
+## 📅 Day 5 – Core Java Scenario-Based Programs 
+**(Date: 27-Dec-2025)**
+
+- Continued working on **scenario-based Core Java problems**.
+- Applied concepts:
+  - Scanner input, variables & primitive data types  
+  - if-else & switch decision handling  
+  - for, while & do-while loops  
+  - Ternary operator usage  
+  - break & continue control flow  
+  - Clean-code formatting, indentation & meaningful comments
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase
+---
+## Week 3: Scenario-Based Problems
+---
+## 📅 Day 1 – Core Java Scenario‑Based Problems 
+**(Date: 29-Dec-2025)**
+
+- Continued solving **Core Java real‑world scenario‑based problems**.
+
+**Scenario Problems Solved:**
+- 🚗 **Parking Lot Gate System**
+  - Menu-driven system with options: Park, Exit, Show Occupancy
+  - Uses switch-case for menu handling and while loop for continuation
+
+- 🎲 **The Number Guessing Game**
+  - Player guesses a number between 1 and 100 using do-while loop
+  - Provides hints (“Too high” / “Too low”) and limits attempts to 5
+
+- 🛍️ **Shopkeeper’s Discount Dashboard**
+  - Inputs item prices using a for loop and calculates total bill
+  - Applies discount rules using if-else with clean coding practices
+
+- 🚍 **School Bus Attendance System**
+  - Uses for-each loop to check attendance of 10 students
+  - Displays total present and absent count
+
+- 📱 **Phone Recharge Simulator**
+  - Uses switch-case to show operator-wise recharge offers
+  - Allows repeated recharges using loop and shows updated balance
+
+**🔗 Link:** 
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day3
+---
