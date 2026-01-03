@@ -13,7 +13,7 @@ public class Manager extends Employee {
 	public void displayDetails()
 	{
 		
-		System.out.println("\n --- Manager Details ---");
+		System.out.println("--- Manager Details---");
 		System.out.println("Manager Name :" + name);
 		System.out.println("Manager Id :" + id);
 		System.out.println("Manager Salary :"+ salary);

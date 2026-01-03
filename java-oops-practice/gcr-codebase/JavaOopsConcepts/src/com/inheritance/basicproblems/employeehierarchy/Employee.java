@@ -1,6 +1,7 @@
 package com.inheritance.basicproblems.employeehierarchy;
 
-public class Employee {
+public class Employee 
+{
 	
 	protected String name;
 	protected int id;
