@@ -1,4 +1,4 @@
-package com.inheritance.basicproblems.vehicle;
+package com.inheritance.basicproblems.vehiclehierarchy;
 
 public class TestVehicle 
 {
@@ -11,12 +11,11 @@ public class TestVehicle
 	        fleet[1] = new Truck(100, "Diesel", 15.5);
 	        fleet[2] = new Motorcycle(150, "Petrol", false);
 
-	        System.out.println("=== Transport Fleet Details ===\n");
+	        System.out.println(" ---- Transport Fleet Details ---- \n");
 	        
 	        for (Vehicle v : fleet)
 	        {
 	            v.displayInfo(); 
-	            System.out.println("-----------------------------");
 	        }
 	    }
 }
