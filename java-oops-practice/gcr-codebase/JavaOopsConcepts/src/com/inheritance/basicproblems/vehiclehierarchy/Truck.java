@@ -1,4 +1,4 @@
-package com.inheritance.basicproblems.vehicle;
+package com.inheritance.basicproblems.vehiclehierarchy;
 
 public class Truck extends Vehicle 
 {
