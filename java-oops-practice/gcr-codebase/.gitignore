@@ -17,3 +17,14 @@ target/
 .DS_Store
 
 Thumbs.db
+  java-oops-practice/scenario-based/JavaOopsScenario/src/.gitignore
+
+    dsa-practice/
+        java-oops-practice/scenario-based/JavaOopsScenario/src/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1/ewalletapplication/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1/hospitalmanagement/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1/smarthomeapplication/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1/universitycourseenrollment/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1/vehiclerentalsystem/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2/bankacccount/.gitignore
+        java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2/ridehailingapp/.gitignore
