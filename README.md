@@ -375,4 +375,58 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 **🔗 Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation
 
----    
+---
+## 📅 Day 5 – OOP Scenario-Based Projects + LinkedList Introduction  
+**(Date: 02-Jan-2026)**
+
+- Continued working on **real-world OOP scenario-based problem design**
+- Followed structured problem-solving approach:
+  - Identify entities, attributes, and relationships
+  - Apply constructors, encapsulation & access modifiers
+  - Use interfaces to define behavior contracts
+  - Implement polymorphism through method overriding
+  - Keep logic modular using helper methods
+
+### 🧩 Scenario-Based OOP Modules Practiced
+
+1️⃣ Hospital Patient Management System  
+2️⃣ Vehicle Rental Application  
+3️⃣ University Course Enrollment System  
+4️⃣ E-Wallet Application  
+5️⃣ Smart Home Automation System  
+
+Concepts applied across scenarios:
+
+- Classes & Object Modeling  
+- Constructors (default + parameterized)  
+- Encapsulation (private fields + getters/setters)  
+- Inheritance & abstraction  
+- Interfaces for behavior definition  
+- Polymorphism (overridden methods)  
+- Operators used in calculations (billing, rent, GPA, charges)
+
+Also practiced:
+
+- Splitting logic into reusable helper methods  
+- Clean coding & modular function design  
+
+---
+
+### 🧮 Data Structures — LinkedList (Introduction)
+
+- Studied material:
+  - **01 – Data Structure Introduction and LinkedList**
+- Understood:
+  - LinkedList node structure
+  - Memory behavior vs Arrays
+  - Real‑world use‑cases
+
+Worked on:
+
+- LinkedList basic programs
+- Level‑1 practice problems
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist
+
+---
