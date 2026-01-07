@@ -92,3 +92,35 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction
 
 ---
+## 📅 Day 2 – Object Modeling & Core Java Scenario-Based Problems  
+**(Date: 30-Dec-2025)**
+
+- Continued practicing **Core Java scenario-based programs**.
+- Followed structured coding approach:
+  - Proper indentation & meaningful variable names  
+  - Loops, switch & conditional logic  
+  - Modular code blocks
+
+**Scenario Problems Solved:**
+
+1️⃣ Temperature Logger  
+2️⃣ Train Reservation Queue  
+3️⃣ Sandeep’s Fitness Challenge Tracker  
+4️⃣ Movie Ticket Booking App  
+5️⃣ Rohan’s Library Reminder App  
+
+---
+
+### 🧩 Object Modeling & Design Principles
+
+- Studied material:
+  - **04 – Object Modeling, Class Diagram**
+- Understood:
+  - Object modeling approach
+  - Class diagrams & relationships
+  - Responsibility-based class design
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
+
+---
