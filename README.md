@@ -154,3 +154,30 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras
 
 ---
+## 📅 Day 3 – Scenario‑Based Java Problems  
+**(Date: 24-Dec-2025)**
+
+- Worked on real‑world Java problems applying:
+  - Variables & literals
+  - Scanner input handling
+  - Operators & expressions
+  - if‑else, switch, ternary
+  - for, while, do‑while, for‑each
+  - break & continue
+- Followed clean‑code practices & comments.
+
+**Problems Implemented:**
+
+- ☕ **Coffee Counter Chronicles**  
+  Coffee ordering & billing system using switch, GST logic,  
+  and continuous orders using while‑loop until *exit*.
+
+- 🧮 **Maya’s BMI Fitness Tracker**  
+  BMI calculation using formula with category classification via if‑else.
+
+- Pushed solutions to **scenario‑based** folder in repository.
+
+**🔗 Code Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day1
+
+---
