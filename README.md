@@ -156,3 +156,33 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
 
 ---
+## 📅 Day 4 – Encapsulation, Interface, Abstract Class & Polymorphism  
+**(Date: 01-Jan-2026)**
+
+- Studied structured guide on:
+  - **Approach to Solve Scenario-Based OOP Problems**
+- Practiced:
+  - Breaking problem into entities & actions
+  - Identifying:
+    - classes  
+    - attributes  
+    - behaviors (methods)
+  - Applying SRP (Single Responsibility Principle)
+
+---
+
+### 🧩 OOP — Encapsulation, Abstraction, Interface & Polymorphism
+
+- Studied material:
+  - **06 – Encapsulation, Interface, Abstract Classes, and Polymorphism**
+- Understood:
+  - Encapsulation & data hiding
+  - Abstract class design
+  - Interface contract rules
+  - Runtime polymorphism & method overriding
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation
+
+---
+
