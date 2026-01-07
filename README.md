@@ -38,3 +38,33 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 
 **🔗 Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist
+---
+
+## 📅 Day 2 — Stack, Queue, HashMap & Hashing  
+**(03-Jan-2026)**
+
+Material:
+- 02 — Stack, Queue, HashMap & Hashing Function
+
+Concepts Understood:
+- Stack → LIFO operations
+- Queue → FIFO behavior
+- Hashing fundamentals
+- HashMap storage & lookup
+
+Programs Implemented:
+```
+Stack operations
+Queue operations
+HashMap CRUD
+Basic hashing logic
+```
+Assignment Submitted:
+- Submission of Stack, Queue, HashMap & Hashing
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapsandhashfunctions
+
+---
+
