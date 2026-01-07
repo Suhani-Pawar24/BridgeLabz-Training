@@ -238,3 +238,18 @@ Operator-based fare / interest logic
 Polymorphic behavior overrides
 🔗 Link:
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2
+
+---
+
+📅 Week 4 — More Scenario‑Based Problems
+---
+📅 Day 1 — Advanced Enterprise-Level OOP Projects
+(05-Jan-2026)
+
+Systems Implemented:
+
+1️⃣ CampusConnect – College Information System
+2️⃣ SwiftCart – The Grocery Shopping App
+🔗 Link: 
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3
+
