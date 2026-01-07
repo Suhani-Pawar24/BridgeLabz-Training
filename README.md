@@ -181,3 +181,16 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day1
 
 ---
+## 📅 Day 4 – Core Java Scenario-Based Programs + OOP Kickoff  
+**(Date: 26-Dec-2025)**
+
+- Continued working on **advanced scenario-based Core Java problems**.
+- Applied concepts:
+  - Scanner input, variables & primitive data types  
+  - if-else & switch decision handling  
+  - for, while & do-while loops  
+  - Ternary operator usage  
+  - break & continue control flow  
+  - Clean-code formatting, indentation & meaningful comments
+
+---
