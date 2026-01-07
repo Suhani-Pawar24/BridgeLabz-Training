@@ -250,3 +250,49 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
 **🔗 Link:** 
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day3
 ---
+## 📅 Day 2 – Core Java Scenario-Based Programs
+**Date: 30-Dec-2025**
+
+ - 🚀 Overview
+ - Today’s focus was on solving real-world Java problems using arrays, loops, and decision-making structures. The goal was to write clean, structured logic with meaningful variable naming.
+
+*Key Concepts Applied:*
+
+ - Control Flow: for, while, and for-each loops.
+ - Decision Making: if-else, switch statements.
+ - Flow Control: break and continue keywords.
+
+💻 *Scenario Problems Solved*
+
+🌡️ **Temperature Logger**
+
+ - Recorded temperatures for 7 days using an array.
+ - Calculated the average and identified the maximum temperature.
+ - Used if conditions for value comparisons.
+
+🚆 **Train Reservation Queue**
+
+ - Developed a menu-driven ticket booking system using switch.
+ - Enabled multiple bookings via a while loop.
+ - Implemented a break condition to stop booking once seats reach zero.
+
+🏋️ **Sandeep’s Fitness Challenge Tracker**
+
+ - Stored daily push-up counts for a full week.
+ - Utilized a for-each loop to calculate the total and average reps.
+ - Applied the continue keyword to skip rest days (zero reps).
+
+🎬 **Movie Ticket Booking App**
+ - Processed inputs for movie type, seat category (Gold/Silver), and snacks.
+ - Nested if statements within a switch block for complex pricing.
+ - Handled multiple customer transactions using a loop.
+
+📚 **Rohan’s Library Reminder App**
+ - Calculated late fines at a rate of ₹5/day.
+ - Compared due dates against return dates.
+ - Used a for-loop to automate the process for 5 books.
+
+🔗 **Code Repository**
+ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day4
+ 
+ --
