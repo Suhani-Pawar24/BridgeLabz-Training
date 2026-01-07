@@ -483,3 +483,66 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapsandhashfunctions
 
 ---
+
+# 🟢 Week 4 — Continued OOP System Design & DSA Foundations
+
+---
+
+## 📅 Day 18 – CampusConnect & SwiftCart OOP Systems + Sorting Algorithms  
+**(Date: 05-Jan-2026)**
+
+- Continued working on **enterprise-style real‑world OOP scenario modules**
+- Focused on:
+  - Class modeling & inheritance
+  - Encapsulation of sensitive attributes
+  - Constructor‑based object initialization
+  - Interfaces for defining contracts
+  - Polymorphism in behavior execution
+  - Clean modular method‑based design
+
+---
+
+### 🧩 Scenario‑Based OOP Projects Practiced
+
+1️⃣ CampusConnect — College Information System  
+2️⃣ SwiftCart — Grocery Shopping & Cart Management System  
+
+#### Concepts applied across scenarios:
+
+- Base class inheritance (Person → Student / Faculty)
+- Interface‑based actions (enrollCourse(), dropCourse(), generateBill())
+- Encapsulation of grades & price computations
+- GPA calculation using operators
+- Course with assigned faculty & enrolled students list
+- Cart with product collection & total price
+- Constructor overloading for flexible initialization
+- Polymorphism in:
+  - printDetails()
+  - discount application
+- Access modifiers to restrict sensitive updates
+
+---
+
+### 🧮 Data Structures & Algorithms — Sorting Algorithms
+
+- Studied material:
+  - **03 – Sorting Algorithms**
+- Understood:
+  - Sorting fundamentals
+  - Stability & inplace behavior
+  - Time & space complexity intuition
+
+Algorithms covered & practiced:
+
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+
+Hands‑on practice included:
+
+- Dry‑run tracing of iterations  
+- Writing reusable sorting methods  
+- Applying sorting on arrays & collections
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
