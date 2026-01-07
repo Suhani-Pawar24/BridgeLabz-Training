@@ -73,4 +73,19 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
 
 ---
+## 📅 Day 4 – Java Control Flow  
+**(Date: 18-Dec-2025)**
+
+- Learned control flow concepts:
+  - if–else, else‑if, switch
+  - for, while, do‑while loops
+  - break & continue
+- Followed clean‑code and indentation conventions.
+- Practiced control‑flow programming problems.
+- Submitted **Control Flow Practice Programs**.
+
+**🔗 Code Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
+
+---
 
