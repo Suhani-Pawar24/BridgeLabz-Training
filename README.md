@@ -102,4 +102,19 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays
 
 ---
+## 📅 Day 6 – Java Methods  
+**(Date: 20-Dec-2025)**
+
+- Studied:
+  - Method declaration & definition
+  - Parameterized methods
+  - Return values & modular code design
+- Practiced reusable function logic through programs.
+- Submitted **Submissions on Java Methods Practices**.
+- Maintained proper project folder structure.
+
+**🔗 Code Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
+
+---
 
