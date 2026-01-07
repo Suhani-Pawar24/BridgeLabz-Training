@@ -194,3 +194,35 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
   - Clean-code formatting, indentation & meaningful comments
 
 ---
+### 🧩 Object-Oriented Programming — Getting Started
+
+- Studied learning material:
+  - **01 – Object-Oriented Programming Fundamentals**
+- Understood core OOP concepts:
+  - Class  
+  - Object  
+  - Methods  
+  - Instance behavior  
+
+- Created a new **Git practice branch**:
+
+```
+Branch created: java-oops-practice
+```
+
+- Installed & configured **Eclipse IDE**
+- Shifted development workflow from **Notepad++ → Eclipse**
+- Performed:
+  - Java project creation in Eclipse
+  - Package creation & folder organization
+  - Class creation & execution setup
+
+- Executed OOP programs successfully in Eclipse IDE
+
+**Assignments Completed:**
+- ✅ Submission of Java Class and Object
+
+**🔗 Repository Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice
+
+---
