@@ -226,3 +226,26 @@ Branch created: java-oops-practice
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice
 
 ---
+## 📅 Day 5 – OOP Concepts: Constructors, Variables & Access Modifiers  
+**(Date: 27-Dec-2025)**
+
+- Continued learning **Object-Oriented Programming concepts**.
+- Studied material:
+  - **02 – Java Constructors, Instance vs Class Variables, Access Modifiers Concepts**
+- Understood:
+  - Constructors & object initialization
+  - Instance variables vs Class (static) variables
+  - Access Modifiers:
+    - public  
+    - private  
+    - protected  
+    - default
+- Practiced Level‑1 lab exercises based on:
+  - Constructor behavior
+  - Object creation
+  - Variable scope & access control
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1
+
+--- 
