@@ -185,4 +185,42 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation
 
 ---
+## 📅 Day 5 – OOP Scenario-Based Projects + LinkedList Introduction  
+**(Date: 02-Jan-2026)**
+
+- Continued working on **real-world OOP scenario-based problem design**
+- Followed structured problem-solving approach:
+  - Identify entities, attributes, and relationships
+  - Apply constructors, encapsulation & access modifiers
+  - Use interfaces to define behavior contracts
+  - Implement polymorphism through method overriding
+  - Keep logic modular using helper methods
+
+### 🧩 Scenario-Based OOP Modules Practiced
+
+1️⃣ Hospital Patient Management System  
+2️⃣ Vehicle Rental Application  
+3️⃣ University Course Enrollment System  
+4️⃣ E-Wallet Application  
+5️⃣ Smart Home Automation System  
+
+Concepts applied across scenarios:
+
+- Classes & Object Modeling  
+- Constructors (default + parameterized)  
+- Encapsulation (private fields + getters/setters)  
+- Inheritance & abstraction  
+- Interfaces for behavior definition  
+- Polymorphism (overridden methods)  
+- Operators used in calculations (billing, rent, GPA, charges)
+
+Also practiced:
+
+- Splitting logic into reusable helper methods  
+- Clean coding & modular function design  
+
+**🔗 Link:** 
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1
+---
+
 
