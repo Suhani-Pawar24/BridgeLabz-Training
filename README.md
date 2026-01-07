@@ -95,5 +95,26 @@ Assignment Submitted:
 **🔗 Link:**
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
 ---
+## 📅 Day 2 — Linear & Binary Search + Advanced IO Utilities  
+**(06-Jan-2026)**
+
+Material:
+- 04 & 05 — Linear Search and Binary Search
+- StringBuilder & StringBuffer
+- BufferedReader / FileReader
+- InputStreamReader
+
+Assignment Submitted:
+- 04 & 05 — Submission of Linear & Binary Search
+
+Concepts Practiced:
+- Linear Search — Sequential lookup
+- Binary Search — Divide & conquer search
+- Efficient string handling
+- File input reading flows
+
+Worked On:
+- Search problems
+- Performance comparison mindset
 
 
