@@ -223,4 +223,18 @@ Also practiced:
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1
 ---
 
+📅 Day 6 — Advanced Enterprise-Level OOP Projects
+(03-Jan-2026)
 
+Systems Implemented:
+
+1️⃣ CabbyGo — Ride-Hailing Backend System
+2️⃣ MyBank — Customer Account Management System
+Applied:
+
+Interface-based design
+Encapsulated fare & balance fields
+Operator-based fare / interest logic
+Polymorphic behavior overrides
+🔗 Link:
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2
