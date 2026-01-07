@@ -67,4 +67,33 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapsandhashfunctions
 
 ---
+# 📅 Week 4 — Sorting, Searching & Real-World Scenario Problems
+
+---
+
+## 📅 Day 1 — Sorting Algorithms  
+**(05-Jan-2026)**
+
+Material:
+- 03 — Sorting Algorithms
+
+Assignment Submitted:
+- 03 — Submission of Sorting Algorithms
+
+Concepts Practiced:
+- Sorting fundamentals
+- Time complexity intuition
+- Real-world use-cases
+
+Worked On:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+Assignment Submitted:
+- Submission of Sorting Algorithms
+
+**🔗 Link:**
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
+---
+
 
