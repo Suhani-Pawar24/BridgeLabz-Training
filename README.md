@@ -314,3 +314,33 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
 
 ---
+## 📅 Day 3 – Inheritance + Advanced Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+- Practiced real-world scenario programs with:
+  - nested loops  
+  - arrays  
+  - switch & conditional logic  
+  - break & continue usage
+
+**Scenario Problems Solved:**
+
+1️⃣ Digital Watch Simulation  
+2️⃣ Online Quiz Application  
+3️⃣ Currency Exchange Kiosk  
+4️⃣ Bus Route Distance Tracker  
+5️⃣ Festival Lucky Draw  
+
+---
+
+### 🧩 OOP – Inheritance Concepts
+
+- Studied material:
+  - **05 – Inheritance**
+- Understood:
+  - Parent–child class relationships
+  - Code reuse through inheritance
+  - Method access rules
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
