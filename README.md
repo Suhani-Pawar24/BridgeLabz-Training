@@ -138,3 +138,19 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
 
 ---
+## 📅 Day 2 – EXTRAS: Built‑in Functions & Java String Handling  
+**(Date: 23-Dec-2025)**
+
+- Practiced:
+  - Java String Handling
+  - Common Built‑in Functions
+  - Java Date & Time Built‑in Functions
+- Completed:
+  - **Built‑In Function Practice Problems**
+  - **String Handling Practice Problems**
+- Improved code indentation, naming & comments.
+
+**🔗 Code Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras
+
+---
