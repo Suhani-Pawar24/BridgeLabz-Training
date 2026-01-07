@@ -430,3 +430,56 @@ Worked on:
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist
 
 ---
+## 📅 Day 6 – Advanced OOP Scenarios + Stack / Queue / HashMap  
+**(Date: 03-Jan-2026)**
+
+- Continued hands‑on system‑design oriented OOP practice
+- Focused on:
+  - Encapsulation of sensitive attributes
+  - Abstraction via interfaces
+  - Polymorphism & overridden behaviors
+  - Constructor‑driven object initialization
+
+### 🧩 Core Scenario-Based Projects Implemented
+
+1️⃣ CabbyGo – Ride‑Hailing Backend System  
+2️⃣ MyBank – Customer Account Management System  
+
+Concepts applied:
+
+- Vehicle inheritance (Mini / Sedan / SUV)
+- Interface‑based ride services
+- Polymorphic fare calculation
+- Encapsulated fare & location details
+- Base Account → Savings / Current (inheritance)
+- ITransaction interface for banking actions
+- Private balance with controlled access
+- Polymorphic interest calculation
+
+---
+
+### 🧮 Data Structures — Stack, Queue, HashMap & Hashing
+
+- Studied material:
+  - **02 – Stack, Queue, HashMap and Hashing Function**
+- Understood:
+
+- Stack — LIFO operations  
+- Queue — FIFO operations  
+- Hashing fundamentals  
+- HashMap behavior & use‑cases  
+
+Worked on:
+
+- Stack programs
+- Queue programs
+- HashMap operations
+- Basic hashing practice problems
+
+**🔗 Link:**  
+
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue
+
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapsandhashfunctions
+
+---
