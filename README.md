@@ -59,7 +59,6 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites
 
 ---
-
 ## 📅 Day 3 – Programming Elements in Java  
 **(Date: 17-Dec-2025)**
 
@@ -74,3 +73,4 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
 
 ---
+
