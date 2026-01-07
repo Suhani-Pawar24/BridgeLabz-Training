@@ -253,3 +253,17 @@ Systems Implemented:
 🔗 Link: 
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3
 
+---
+
+📅 Day 2 — Advanced Enterprise-Level OOP Projects
+(06-Jan-2026)
+
+Systems Implemented:
+
+1️⃣ FitTrack – Your Personal Fitness Tracker
+2️⃣ EduMentor – Personalized Learning Platform
+3️⃣ PetPal – Virtual Pet Care App"
+4️⃣ EventEase – Event Management Platform
+🔗 Link:
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4
+
