@@ -249,3 +249,36 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1
 
 --- 
+## Week 3: Object Oriented Programming and Data Structures and Algorithms
+
+---
+
+## 📅 Day 1 – Core Java Scenario‑Based Problems + OOP Keywords Practice  
+**(Date: 29-Dec-2025)**
+
+- Continued solving **Core Java real‑world scenario‑based problems**.
+
+**Scenario Problems Solved:**
+
+1️⃣ Shopkeeper’s Discount Dashboard  
+2️⃣ School Bus Attendance System  
+3️⃣ Phone Recharge Simulator  
+4️⃣ Parking Lot Gate System  
+5️⃣ The Number Guessing Game  
+
+---
+
+### 🧩 OOP — this, static, final & instanceof
+
+- Studied material:
+  - **03 – this, static, final keywords & instanceof operator Content**
+- Practiced:
+  - `this` keyword usage  
+  - static variables & methods  
+  - final keyword  
+  - instanceof operator (object type validation)
+
+**🔗 Link:**  
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction
+
+---
