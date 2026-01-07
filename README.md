@@ -296,3 +296,42 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
  https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day4
  
  --
+## 📅 Day 3 – Advanced Scenario-Based Logic Programs
+
+**(Date: 31-Dec-2025)**
+
+ - Focused on loop-intensive simulations and logical conditions.
+ - Strengthened understanding of:
+ - Nested loops
+ - Modular arithmetic
+ - User interaction and validation
+
+*Scenario Problems Solved:*
+
+⏱️ **Digital Watch Simulation**
+ - Simulated 24-hour digital clock
+ - Printed hours and minutes using nested for-loops
+ - Used break to stop execution at 13:00 (power cut simulation)
+
+🧠 **Online Quiz Application**
+ - Asked 5 MCQ questions using arrays
+ - Used switch for answer validation
+ - Calculated and displayed final score
+
+💱 **Currency Exchange Kiosk**
+ - Converted INR to target currency
+ - Used switch for exchange rates
+ - Allowed repeated conversions using do-while loop
+
+🚌 **Bus Route Distance Tracker**
+ - Added distance at each stop
+ - Used while-loop to track total distance
+ - Exited on user confirmation
+
+🎉 **Festival Lucky Draw**
+ - Checked if number divisible by 3 and 5
+ - Used loop for multiple visitors
+ - Used continue for invalid inputs
+
+🔗 Code Link:
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day5
