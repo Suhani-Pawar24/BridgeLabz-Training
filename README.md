@@ -1,6 +1,8 @@
 📘 Branch: java-oops-practice
 🚀 BridgeLabz Training: OOPs Mastery in Java
+
 This repository documents my professional learning journey in Object-Oriented Programming (OOP) as part of the BridgeLabz training program. My goal is to transition from writing procedural code to designing robust, scalable, and maintainable object-oriented systems.
+
 ## Week 3: Getting started with Object Oriented Programming
 
 ---
@@ -37,7 +39,10 @@ Assignment Completed:
 
 **🔗 Repository Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice
+
+---
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects
+
 ---
 
 ## 📅 Day 6 – OOP Concepts: Constructors, Variables & Access Modifiers  
@@ -221,6 +226,7 @@ Also practiced:
 
 **🔗 Link:** 
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1
+
 ---
 
 ## 📅 Day 6 – Advanced OOP System Design
@@ -250,7 +256,46 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 * Ability to design scalable, maintainable systems
 * Practical understanding of Java OOP principles
 
-🔗 *Code Link*
+**🔗 Link:** 
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2
+
 ---
+## 📅 Day 9 – Scenario-Based OOP Systems
+**(Date: 05-Jan-2026)**
+
+## Scenario-Based questions
+
+🏫 * **CampusConnect – College Information System**
+
+* Person base class → Student, Faculty
+* ICourseActions: enrollCourse(), dropCourse()
+* Course maintains students & assigned faculty
+* Constructors for initialization
+* Private student grades (encapsulation)
+* GPA calculation using operators
+* Polymorphic printDetails()
+
+🛒 * **SwiftCart – Grocery Shopping App**
+
+* Product: name, price, category
+* Cart: product list, totalPrice
+* Constructor overloading for cart creation
+* ICheckout: generateBill(), applyDiscount()
+* Encapsulated price calculations
+* Total & discount using operators
+* Inheritance: Perishable / Non-Perishable products
+* Polymorphic discount logic
+
+## ✅ Learning Outcomes
+
+* Strong foundation in Object-Oriented Programming
+* Hands-on experience with object modeling
+* Ability to design scalable, maintainable systems
+* Practical understanding of Java OOP principles
+
+**🔗 Link:** 
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3
+
+---
+
 
