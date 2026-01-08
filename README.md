@@ -260,7 +260,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2
 
 ---
-## 📅 Day 9 – Scenario-Based OOP Systems
+## 📅 Day 7 – Scenario-Based OOP Systems
 **(Date: 05-Jan-2026)**
 
 ## Scenario-Based questions
@@ -297,5 +297,47 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3
 
 ---
+## 📅 Day 8 – Advanced Scenario-Based OOP Applications
+
+**(Date: 06-Jan-2026)**
+
+*Scenario-Based Questions Implemented*
+
+🐾 **PetPal – Virtual Pet Care App**
+ - Designed a Pet base class with Dog, Cat, and Bird using inheritance.
+ - Implemented IInteractable interface to handle feed, play, and sleep actions.
+ - Applied encapsulation to control hunger, mood, and energy levels safely.
+ - Used polymorphism for pet-specific sounds and behavior changes.
+
+🎓 **EduMentor – Personalized Learning Platform**
+ - Built a User base class with Learner and Instructor as subclasses.
+ - Designed Quiz module with encapsulated answers and score calculation.
+ - Implemented ICertifiable interface with different certificate logic.
+ - Used operators to compute percentage scores and applied polymorphism.
+
+💪 **FitTrack – Personal Fitness Tracker**
+ - Created UserProfile and Workout classes to track health and progress.
+ - Implemented ITrackable interface for starting and stopping workouts.
+ - Used inheritance for Cardio and Strength workouts with different calorie logic.
+ - Protected sensitive health data using private fields and controlled access.
+
+🎉 **EventEase – Event Management Platform**
+ - Designed an Event system with Birthday and Conference event types.
+ - Used constructors to allow events with or without extra services.
+ - Implemented ISchedulable interface for scheduling and rescheduling events.
+ - Applied encapsulation to protect pricing, event IDs, and organizer data.
+
+✅ **Learning Outcomes**
+ - Strengthened understanding of inheritance, interfaces, and polymorphism
+ - Practiced encapsulation and access control in real-world systems
+ - Designed scalable, modular OOP applications
+ - Improved confidence in scenario-based object modeling
+ 
+🔗 *Code Link*
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4
+
+---
+
+
 
 
