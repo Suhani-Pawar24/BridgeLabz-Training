@@ -223,47 +223,34 @@ Also practiced:
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1
 ---
 
-📅 Day 6 — Advanced Enterprise-Level OOP Projects
-(03-Jan-2026)
+## 📅 Day 6 – Advanced OOP System Design
+**(Date: 03-Jan-2026)**
 
-Systems Implemented:
+### Scenario-Based questions 
 
-1️⃣ CabbyGo — Ride-Hailing Backend System
-2️⃣ MyBank — Customer Account Management System
-Applied:
+* **CabbyGo – Ride-Hailing Backend System**
 
-Interface-based design
-Encapsulated fare & balance fields
-Operator-based fare / interest logic
-Polymorphic behavior overrides
-🔗 Link:
+  * Vehicle inheritance (Mini / Sedan / SUV)
+  * Interface-based ride services
+  * Polymorphic fare calculation
+  * Encapsulated fare and trip details
+
+* **MyBank – Account Management System**
+
+  * Base Account → Savings / Current inheritance
+  * ITransaction interface
+  * Private balance with controlled access
+  * Polymorphic interest calculation
+
+
+## ✅ Learning Outcomes
+
+* Strong foundation in Object-Oriented Programming
+* Hands-on experience with object modeling
+* Ability to design scalable, maintainable systems
+* Practical understanding of Java OOP principles
+
+🔗 *Code Link*
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2
-
 ---
-
-📅 Week 4 — More Scenario‑Based Problems
----
-📅 Day 1 — Advanced Enterprise-Level OOP Projects
-(05-Jan-2026)
-
-Systems Implemented:
-
-1️⃣ CampusConnect – College Information System
-2️⃣ SwiftCart – The Grocery Shopping App
-🔗 Link: 
-https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day3
-
----
-
-📅 Day 2 — Advanced Enterprise-Level OOP Projects
-(06-Jan-2026)
-
-Systems Implemented:
-
-1️⃣ FitTrack – Your Personal Fitness Tracker
-2️⃣ EduMentor – Personalized Learning Platform
-3️⃣ PetPal – Virtual Pet Care App"
-4️⃣ EventEase – Event Management Platform
-🔗 Link:
-https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4
 
