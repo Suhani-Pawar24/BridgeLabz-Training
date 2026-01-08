@@ -337,6 +337,40 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/ja
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day4
 
 ---
+ ## 📅 Day 9 – Scenario-Based OOP Applications
+
+**(Date: 07-Jan-2026)**
+
+📘 *Scenarios Implemented*
+
+🚗 **ParkEase – Smart Parking Management System**
+ - Vehicle hierarchy: Car, Bike, Truck
+ - IPayable interface for charge calculation
+ - Encapsulation of slot availability
+ - Polymorphic parking charge logic
+
+📚 **BookBazaar – Digital Bookstore System**
+ - Book base class with EBook and PrintedBook
+ - IDiscountable interface for offers
+ - Inventory handled via encapsulated methods
+ - Order cost calculation using operators
+
+🏦 **LoanBuddy – Loan Approval Automation**
+ - Applicant and LoanApplication design
+ - IApprovable interface for approval & EMI
+ - HomeLoan and AutoLoan inheritance
+ - Polymorphic EMI calculation
+
+✅ *Learning Outcomes*
+
+ - Applied inheritance, interfaces, and polymorphism
+ - Practiced encapsulation and access control
+ - Built real-world OOP backend models
+
+🔗 *Code Link*
+https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsScenario/src/com/day5
+
+
 
 
 
