@@ -57,6 +57,7 @@ BridgeLabz-Training/
 
 **🔗 Repository Structure Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice
+
 **🔗 Basic java programs Link:** 
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites
 
@@ -133,6 +134,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 
 **🔗 Code Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+
 ---
 
 ## 📅 Day 2 – EXTRAS: Built‑in Functions & Java String Handling  
@@ -149,6 +151,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 
 **🔗 Code Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras
+
 ---
 
 ## 📅 Day 3 – Scenario‑Based Java Problems  
@@ -174,6 +177,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/gc
 
 **🔗 Code Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day1
+
 ---
 
 ## 📅 Day 4 – Core Java Scenario-Based Programs 
@@ -203,6 +207,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
 *Scenario Based Questions Solved*
 **🔗 Code Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day2
+
 ---
 ## 📅 Day 5 – Core Java Scenario-Based Programs 
 **(Date: 27-Dec-2025)**
@@ -218,6 +223,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
 
 **🔗 Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase
+
 ---
 ## Week 3: Scenario-Based Problems
 ---
@@ -249,6 +255,7 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
 
 **🔗 Link:** 
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day3
+
 ---
 ## 📅 Day 2 – Core Java Scenario-Based Programs
 **Date: 30-Dec-2025**
@@ -295,6 +302,8 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
 🔗 **Code Repository**
  https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day4
  
+ 
+ 
  --
 ## 📅 Day 3 – Advanced Scenario-Based Logic Programs
 
@@ -335,3 +344,4 @@ https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/sc
 
 🔗 Code Link:
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/core-java-practice/scenario-codebase/Day5
+
