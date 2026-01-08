@@ -28,3 +28,38 @@ Thumbs.db
         java-oops-practice/scenario-based/JavaOopsScenario/src/com/day1/vehiclerentalsystem/.gitignore
         java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2/bankacccount/.gitignore
         java-oops-practice/scenario-based/JavaOopsScenario/src/com/day2/ridehailingapp/.gitignore
+ /bin/
+.project
+.classpath
+.settings/
+target/
+*.log
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+*.class
+.DS_Store   
+.metadata/
+# =========================
+# Eclipse Workspace
+# =========================
+.metadata/
+.gitignore/
+*.class
+# =========================
+# Eclipse Project Files
+# =========================
+JavaDsaConcepts/.settings/
+JavaDsaConcepts/.project
+JavaDsaConcepts/.classpath
+JavaDsaConcepts/src/com/.classpath
+JavaDsaConcepts/src/com/.project
+
+# =========================
+# Java Build Output
+# =========================
+JavaDsaConcepts/bin/
+JavaDsaConcepts/src/module-info.java
+       
