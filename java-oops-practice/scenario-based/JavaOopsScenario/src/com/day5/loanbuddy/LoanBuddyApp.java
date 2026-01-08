@@ -14,8 +14,7 @@ public class LoanBuddyApp
 
 	        if (loan.isApproved()) 
 	        {
-	            System.out.println("Monthly EMI: ₹" +
-	                Math.round(loan.calculateEMI()));
+	            System.out.println("Monthly EMI: ₹" + Math.round(loan.calculateEMI()));
 	        }
 	    }
 }
