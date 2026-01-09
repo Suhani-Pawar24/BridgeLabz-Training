@@ -2,23 +2,18 @@ package com.stringbuilder;
 import java.util.HashSet;
 public class ReverseString 
 {
-
-	    public static void main(String[] args) 
-	    {
-	        String input = "programming";
+	 public static void main(String[] args) 
+	 {
+	        String input = "hello";
 
 	        StringBuilder sb = new StringBuilder();
-	        HashSet<Character> set = new HashSet<>();
+	        sb.append(input);
 
-	        for (char ch : input.toCharArray()) 
-	        {
-	            if (!set.contains(ch))
-	            {
-	                sb.append(ch);
-	                set.add(ch);
-	            }
-	        }
+	        String reversed = sb.reverse().toString();
 
-	        System.out.println(sb.toString());
+	        System.out.println(reversed);
 	    }
 }
+
+
+	   
