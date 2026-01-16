@@ -546,3 +546,296 @@ Hands‑on practice included:
 
 **🔗 Link:**  
 https://github.com/Suhani-Pawar24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sortingalgorithm
+
+ ##📅 Day 18 – String Handling, I/O Streams & Searching Basics
+**(Date: 06-Jan-2026)**
+
+
+##📘 Topics Covered
+
+- Studied Mutable String Classes in Java:
+  - StringBuilder
+   - Mutable sequence of characters.
+   - Faster than StringBuffer (not thread-safe).
+   - Common methods: append(), insert(), delete(), reverse().
+   - Used in performance-critical string manipulation.
+    
+  - StringBuffer
+   - Mutable and thread-safe (synchronized).
+   - Slower than StringBuilder due to synchronization.
+   - Used in multi-threaded environments.
+     
+  - Compared:
+   - String vs StringBuilder vs StringBuffer
+   - Mutability, performance, and thread safety differences.
+     
+ - Explored Java I/O Stream Classes:
+  - FileReader
+  - Reads character data from files.
+  - Suitable for text-based file input.
+  - Used for reading files character by character.
+
+  - InputStreamReader
+   - Bridges byte streams to character streams.
+   - Converts byte input into characters using encoding.
+   - Commonly used with System.in and FileInputStream.
+   - 
+  - Understood:
+   - Byte streams vs Character streams.
+   - Importance of encoding in input handling.
+
+--
+
+## 📅 Day 19 – Algorithm Runtime Analysis & OOP Scenario-Based Programs
+
+**(Date: 07-Jan-2026)**
+
+📘 *Topics Covered*
+# 1️⃣ Algorithm Runtime & Big-O Notation
+
+ - Runtime Analysis: Evaluated algorithms by input size (N) for time and memory.
+ - Big-O Notation: Described growth rates: O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ).
+ - Time Complexity: Best, Worst, Average cases for:
+ - Linear Search – O(N)
+ - Binary Search – O(log N)
+ - Bubble Sort – O(N²)
+ - Merge/Quick Sort – O(N log N)
+ - Recursive vs Iterative Fibonacci
+ - Space Complexity: Compared iterative vs recursive memory usage.
+ - Practical Optimization: Reduce nested loops, use efficient data structures, prefer iterative for large datasets, minimize memory allocation in loops, use mutable classes for strings (StringBuilder).
+
+# 2️⃣ OOP Scenario-Based Learning
+
+ - Applied Inheritance, Encapsulation, Polymorphism, Interfaces in real-world programs:
+ - Bank Account System – Encapsulated balance; polymorphic methods for Savings & Current accounts.
+ - Employee Payroll System – Overridden salary calculations for Full-Time & Part-Time employees.
+ - Vehicle Rental System – Polymorphic fare calculation across vehicle types.
+ - Online Shopping Cart – Encapsulated product data; applied polymorphism for discount logic.
+ - Smart Parking System – Slots assigned, charges calculated, access controlled via encapsulation.
+
+# 3️⃣ Key Takeaways
+
+ - Algorithm efficiency impacts large datasets significantly.
+ - OOP principles enable modular, reusable, and maintainable code.
+ - Combining OOP design with optimized algorithms solves real-world problems efficiently.
+
+---
+
+## Day 20 – Scenario-Based Design & OOP Case Studies
+
+**(Date: 08-Jan-2026)**
+
+# 📘 Topics Covered
+ - Designed real-world applications using Object-Oriented Programming concepts.
+ - Converted problem statements into classes, interfaces, and relationships.
+ - Implemented pharmacy inventory and travel planning systems.
+ - Applied encapsulation to protect sensitive data.
+ - Used inheritance to model specialized behaviors.
+ - Implemented runtime polymorphism for dynamic logic execution.
+ - Performed operator-based calculations for totals and discounts.
+
+🔗 Code Link:
+👉 Day 20 – MediStore & TourMate App
+
+
+--
+
+ ## 📅 Day 21 – Scenario-Based OOP Applications
+
+**(Date: 09-Jan-2026)**
+
+🎨 **Artify – Digital Art Marketplace**
+
+ - Artwork base class → DigitalArt, PrintArt
+ - IPurchasable interface for purchase & licensing
+ - Encapsulation for licensing terms
+ - Constructors with/without previews
+ - Polymorphism for art-specific licensing
+
+🍔 **FoodLoop – Restaurant Ordering System**
+
+ - FoodItem base class → VegItem, NonVegItem
+ - Order class with combo meals
+ - IOrderable interface
+ - Total = price − discount (operators)
+ - Polymorphic discount logic
+
+🎓 **SkillForge – Online Learning Portal**
+
+ - User → Student, Instructor
+ - Course with modules & ratings
+ - ICertifiable interface
+ - Encapsulation for rating logic
+ - Polymorphic certificate formats
+
+✅ *Learning Outcomes*
+
+ - Applied inheritance, interfaces, polymorphism
+ - Practiced encapsulation and access control
+ - Designed real-world OOP systems
+
+ 🔗 *Code Link*
+👉 **Scenario-Based OOP Implementations**
+
+--
+
+## 📅 Day 22 – Scenario-Based Data Structures
+
+**(Date: 10-01-2026)**
+
+Real-world problems using core Data Structures.
+---
+
+## 📖 1. BookShelf – Library Organizer  
+**DS:** HashMap + LinkedList (+ HashSet)
+
+- Genre → list of books
+- Add / remove books dynamically
+- Prevent duplicates (optional)
+
+**Why:**  
+HashMap for fast lookup, LinkedList for efficient insert/delete
+
+---
+
+## 💻 2. BrowserBuddy – Tab History Manager  
+**DS:** Doubly Linked List + Stack
+
+- Back / Forward navigation
+- Restore closed tabs
+- Efficient pointer-based history
+
+**Why:**  
+DLL for bidirectional navigation, Stack for LIFO restore
+
+---
+
+## 🏥 3. AmbulanceRoute – Emergency Navigation  
+**DS:** Circular Linked List
+
+- Circular unit traversal
+- Find nearest available unit
+- Remove unit under maintenance
+
+**Why:**  
+Continuous rotation without null checks
+
+---
+
+## Key Concepts
+- Linked Lists (Singly, Doubly, Circular)
+- Stack operations
+- HashMap indexing
+- Real-world DS selection
+
+---
+
+## 📅 Day 7 – Scenario-Based Data Structures
+
+**(Date: 12-01-2026)**
+
+## Real-world problems using core Data Structures.
+
+## Problems Implemented
+
+### 1. CallCenter – Customer Queue Manager  
+**Data Structures:** Queue, PriorityQueue, HashMap  
+- FIFO handling for normal customers  
+- Priority handling for VIP customers  
+- Call frequency tracking using HashMap  
+
+---
+
+### 2. TrainCompanion – Compartment Navigation System  
+**Data Structure:** Doubly Linked List  
+- Forward and backward traversal  
+- Dynamic insertion and removal of compartments  
+- Adjacent compartment navigation  
+
+---
+
+### 3. TextEditor – Undo / Redo Functionality  
+**Data Structure:** Stack  
+- Insert and delete operations  
+- Undo using stack (LIFO)  
+- Redo using separate stack  
+
+---
+
+## Key Concepts
+- Scenario-based data structure selection  
+- Efficient state management  
+- Real-world problem modeling in Java
+
+🔗 *Code Link*
+👉 **Scenario-Based DSA Implementations**
+
+--
+
+## 📅 Day 8 – Scenario-Based Data Structures
+
+**(Date: 13-01-2026)**
+
+## Real-world problems using core Data Structures.
+
+## Problems Implemented
+
+---
+
+### 7. TrafficManager – Roundabout Vehicle Flow  
+**Data Structures:** Circular Linked List, Queue  
+- Vehicles move in a circular path inside a roundabout  
+- Incoming vehicles wait in a queue before entering  
+- Supports add/remove operations  
+- Handles queue overflow and underflow  
+- Displays current roundabout state  
+
+---
+
+### 8. BookShelf – Library Organizer  
+**Data Structures:** HashMap, LinkedList (+ optional HashSet)  
+- Maintains genre-wise book catalog  
+- Dynamic insertion and deletion of books  
+- Fast lookup using HashMap  
+- Optional duplicate prevention using HashSet  
+
+---
+
+### 9. SmartCheckout – Supermarket Billing Queue  
+**Data Structures:** Queue, HashMap  
+- Customers are processed in FIFO order  
+- Item prices and stock fetched using HashMap  
+- Stock updated after each purchase  
+- Simulates real-time checkout billing system  
+
+---
+
+### 10. ParcelTracker – Delivery Chain Management  
+**Data Structure:** Singly Linked List  
+- Tracks parcel stages sequentially  
+- Supports adding intermediate checkpoints  
+- Forward-only traversal of delivery stages  
+- Handles missing or lost parcel scenarios  
+
+---
+
+### 11. ExamProctor – Online Exam Review System  
+**Data Structures:** Stack, HashMap, Functions  
+- Tracks question navigation using Stack (LIFO)  
+- Stores answers using HashMap  
+- Auto-evaluates score on submission  
+- Clean separation of logic using functions  
+
+---
+
+## Key Concepts
+- Scenario-based data structure selection  
+- Real-world modeling using Java  
+- Efficient use of linear and non-linear DS  
+- Understanding traversal, insertion, and deletion logic  
+
+**Language:** Java  
+**Purpose:** Academic practice and Data Structure concept clarity
+
+🔗 *Code Link*
+👉 **Scenario-Based DSA Implementations**
