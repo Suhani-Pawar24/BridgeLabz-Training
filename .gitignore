@@ -1,0 +1,34 @@
+/bin/
+.project
+.classpath
+.settings/
+target/
+*.log
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+*.class
+.DS_Store   
+.metadata/
+# =========================
+# Eclipse Workspace
+# =========================
+.metadata/
+.gitignore/
+*.class
+# =========================
+# Eclipse Project Files
+# =========================
+JavaDsaConcepts/.settings/
+JavaDsaConcepts/.project
+JavaDsaConcepts/.classpath
+JavaDsaConcepts/src/com/.classpath
+JavaDsaConcepts/src/com/.project
+
+# =========================
+# Java Build Output
+# =========================
+JavaDsaConcepts/bin/
+JavaDsaConcepts/src/module-info.java
